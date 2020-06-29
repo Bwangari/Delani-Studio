@@ -68,3 +68,13 @@
     padding:10px;
     font-family: 'Times New Roman', Times, serif;
 }
+.top{
+    width: 270px;
+    height: 200px;
+}
+.bottom{
+    width: 270px;
+    height: 200px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
