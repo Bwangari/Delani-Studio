@@ -35,6 +35,8 @@
 .about{
     text-transform: uppercase;
     font-family: 'Times New Roman', Times, serif;
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
 .aboutp{
     color:black;
@@ -54,6 +56,13 @@
 }
 .serve{
     color: white;
+    font-style: normal;
+    font-size:19px;
+    padding:10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ .what{
+    color: black;
     font-style: normal;
     font-size:19px;
     padding:10px;
