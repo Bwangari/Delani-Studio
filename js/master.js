@@ -5,7 +5,9 @@ $(document).ready(function(){
     $("#develop").click(function() {
         $("#developp").toggle();
       });
-      
+      $("#product-manage").click(function() {
+        $("#product-managep").toggle();
+      });     
  });
  
 
