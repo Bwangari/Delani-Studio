@@ -1,14 +1,14 @@
 $(document).ready(function(){
     $("#desi").click(function() {
-        $("#designp").toggle();
+        $("#designp").toggle("slow");
       });
     $("#develop").click(function() {
-        $("#developp").toggle();
+        $("#developp").toggle("slow");
       });
       $("#product-manage").click(function() {
-        $("#product-managep").toggle();
-      });     
- });
- 
-
- 
+        $("#product-managep").toggle("slow");
+      }); 
+      $("#mouse-img").click(function() {
+        $("#about-h1").toggle("fast");
+      }); 
+});
